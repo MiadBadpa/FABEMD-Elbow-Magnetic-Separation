@@ -1,0 +1,2 @@
+# Temporary file to create folder structure
+# This file will be deleted after all folders are created
