@@ -1,5 +1,3 @@
-# FABEMD-Elbow-Magnetic-Separation
-MATLAB implementation of FABEMD-Elbow for automatic multiscale magnetic anomaly separation
 # FABEMD-Elbow: Fast and Fully-Automatic Scale Identification for Separation of Magnetic Anomaly in Complex Environments
 
 [![MATLAB](https://img.shields.io/badge/MATLAB-R2020a%2B-blue.svg)](https://www.mathworks.com/products/matlab.html)

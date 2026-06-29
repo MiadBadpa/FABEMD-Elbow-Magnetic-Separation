@@ -1,0 +1,7 @@
+@article{badpa2026fabemd,
+  author    = {Badpa, M. and Moradzadeh, A. and Norouzi, G. and Roshandel Kahoo, A.},
+  title     = {FABEMD-Elbow: Fast and Fully-Automatic Scale Identification for Separation of Magnetic Anomaly in Complex Environments},
+  journal   = {Computers \& Geosciences},
+  year      = {2026},
+  doi       = {...}
+}
